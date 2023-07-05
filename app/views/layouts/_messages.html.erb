@@ -1,0 +1,20 @@
+  <div class="container">
+  <div class="row opened">
+  <div class="col-xs-10 col-xs-offset-1">
+  <% flash.each do |name, msg| %>
+<div class='style-alert alert alert-<%="#{name}"%> alert-dismissible fade show' role="alert">
+  <%= content_tag :div, msg, :id => "flash_#{name}" if msg.is_a?(String)%>
+ 
+</div>
+  <% end %>
+  </div>
+  </div>
+  </div>
+
+
+  <script>
+const notification = document.querySelector(".opened")
+setTimeout(() => {
+    notification.classList.add("closed")
+}, 2000);
+  </script>
