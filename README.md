@@ -1,13 +1,13 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>wine and dine</b></h3>
+  <h3><b>Budget App</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
 
 # :green_book: Table of Contents
-- [:green_book: Table of Contents](#-table-of-contents)
+- [:green_book:Table of Contents](#-table-of-contents)
 - [:book: Recipe App](#Recipe-app)
   - [:hammer_and_wrench: Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
@@ -81,7 +81,7 @@ Clone this repository to your desired folder:
 ```
  - mkdir my-folder
  - cd my-folder
- -https://github.com/Ade179/wine-and-dine.git
+ -https://github.com/Ade179/Budget-App.git
  - cd Recipe-app
  - bundle install
  - rails db:create
@@ -115,11 +115,6 @@ To run the project, execute the following command:
 - GitHub: [@githubhandle](https://github.com/Ade179)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/adejuwon-adesanya-237b54239/)
 
-👤 **Syed Askiri**
-
-- GitHub: [@githubhandle]()
-- LinkedIn: [LinkedIn]()
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,7 +131,6 @@ To run the project, execute the following command:
 
 ## :handshake: Contributing <a name="contributing"></a>
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/Ade179/wine-and-dine/issues/10).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
