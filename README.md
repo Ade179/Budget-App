@@ -7,7 +7,7 @@
 <!-- TABLE OF CONTENTS -->
 
 # :green_book: Table of Contents
-- [:green_book: Table of Contents](#-table-of-contents)
+- [:green_book:Table of Contents](#-table-of-contents)
 - [:book: Recipe App](#Recipe-app)
   - [:hammer_and_wrench: Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
