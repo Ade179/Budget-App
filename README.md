@@ -103,7 +103,7 @@ To run the project, execute the following command:
 
 ### Deployment
 
-- Netlify
+- Render.com
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -142,7 +142,7 @@ If you like this project you can fork it.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## :pray: Acknowledgments <a name="acknowledgements"></a>
-I would like to thank... <a href="https://www.microverse.org/?gclid=CjwKCAiArY2fBhB9EiwAWqHK6s-2-x4d57Pghz47XT1BgsYuF81ZprM-k-IwzI0_L96nV0SQ93A8ExoCVnQQAvD_BwE" title="planet icons">[Gregoire Vella]([https://creativecommons.org/licenses/by-nc/4.0/](https://www.behance.net/gregoirevella)) which inspired my design of the project</a>
+I would like to thank... <a href="https://www.microverse.org/?gclid=CjwKCAiArY2fBhB9EiwAWqHK6s-2-x4d57Pghz47XT1BgsYuF81ZprM-k-IwzI0_L96nV0SQ93A8ExoCVnQQAvD_BwE" title="planet icons">[Gregoire Vella](https://www.behance.net/gregoirevella) who inspired my design of the project</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license">[Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/)</a>
