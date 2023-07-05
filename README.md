@@ -82,7 +82,7 @@ Clone this repository to your desired folder:
  - mkdir my-folder
  - cd my-folder
  -https://github.com/Ade179/Budget-App.git
- - cd Recipe-app
+ - cd Budget-app
  - bundle install
  - rails db:create
  - rails db:migrate
@@ -142,10 +142,10 @@ If you like this project you can fork it.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## :pray: Acknowledgments <a name="acknowledgements"></a>
-I would like to thank... <a href="https://www.microverse.org/?gclid=CjwKCAiArY2fBhB9EiwAWqHK6s-2-x4d57Pghz47XT1BgsYuF81ZprM-k-IwzI0_L96nV0SQ93A8ExoCVnQQAvD_BwE" title="planet icons">Microvers for giving me this opportunity to build this project</a>
+I would like to thank... <a href="https://www.microverse.org/?gclid=CjwKCAiArY2fBhB9EiwAWqHK6s-2-x4d57Pghz47XT1BgsYuF81ZprM-k-IwzI0_L96nV0SQ93A8ExoCVnQQAvD_BwE" title="planet icons">[Gregoire Vella]([https://creativecommons.org/licenses/by-nc/4.0/](https://www.behance.net/gregoirevella)) which inspired my design of the project</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="license">[Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/)</a>
 
 This project is [MIT](./MIT.md) licensed.
 
