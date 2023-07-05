@@ -29,7 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# :Wine and dine: Recipe-app <a name="about-project"></a>
+# Budget App<a name="about-project"></a>
 > The Recipe app keeps track of all your recipes, ingredients.. It will allow you to  create recipes, and add new food what you have and what you are missing from a recipe
 ## :hammer_and_wrench: Built With <a name="built-with"></a>
 ### Tech Stack <a name="tech-stack"></a>
