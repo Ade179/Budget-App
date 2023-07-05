@@ -29,6 +29,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
+# Budget App<a name="about-project"></a>
+> The Recipe app keeps track of all your recipes, ingredients.. It will allow you to  create recipes, and add new food what you have and what you are missing from a recipe
+
 #  Budget-app <a name="about-project"></a>
 > This app focuses on planning a budget for any category a user chooses. it could be music, sports, entertainment etc. It helps plan how much is needed to fulfil a category. 
 ## :hammer_and_wrench: Built With <a name="built-with"></a>
