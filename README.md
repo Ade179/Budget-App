@@ -148,5 +148,6 @@ I would like to thank... <a href="https://www.microverse.org/?gclid=CjwKCAiArY2f
 ## 📝 License <a name="license">[Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/)</a>
 
 This project is [MIT](./MIT.md) licensed.
+![Red Circle](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCc+PGNpcmNsZSBjeD0nMjUgY3k9JzI1JyByPScyIiAvPgo=)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
